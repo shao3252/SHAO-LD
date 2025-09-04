@@ -1,8 +1,8 @@
 {
-  "name": "CASEYRHODES-XMD",
+  "name": "SHAO-LD",
   "description": "An Advanced Whatsapp bot 🚀 built for fast automation, media tool, and smooth group management developed by Caseyrhodes tech",
-  "logo": "https://files.catbox.moe/vcdwmp.jpg",
-  "keywords": ["CASEYRHODES-XMD"],
+  "logo": "https://files.catbox.moe/i8u785.jpg",
+  "keywords": ["SHAO-LD"],
   "success_url": "/",
 
     "stack": "container",
@@ -16,7 +16,7 @@
     "STICKER_NAME": {
       "description": "type your sticker pack name.",
       "required": false,
-      "value": "CASEYRHODES-XMD"
+      "value": "SHAO-LD"
     }, 
       
     "PREFIX": {
@@ -78,27 +78,27 @@
     "AUTO_STATUS_MSG": {
       "description": "Type custom message on status reply",
       "required": true,
-      "value": "*SEEN YOUR STATUS BY CASEYRHODES TECH 🇰🇪*"
+      "value": "*SEEN YOUR STATUS BY SKITU🇹🇿*"
    
      }, 
     
     "OWNER_NAME": {
       "description": "Type Bot Owner Name.",
       "required": false,
-      "value": "CASEYRHODES-TECH"
+      "value": "SHAO"
 }, 
 
     "OWNER_NUMBER": {
       "description": "put the owner number for bot.",
       "required": false,
-      "value": "254112192119"
+      "value": "255682685998"
 
     }, 
 
     "BOT_NAME": {
       "description": "Type here the bot name.",
       "required": false,
-      "value": "CASEYRHODES-XMD"
+      "value": "SHAO-LD"
 
       }, 
 
@@ -131,13 +131,13 @@
     "MENU_IMAGE_URL": {
       "description": "add url for mention reply and menu if want.",
       "required": false,
-      "value": "https://files.catbox.moe/52dotx.jpg"
+      "value": "https://files.catbox.moe/i8u785.jpg"
     },
     
      "DESCRIPTION": {
       "description": "add caption for menu and other",
       "required": false,
-      "value": "*© ᴘᴏᴡᴇʀᴇᴅ ʙʏ ᴄᴀsᴇʏʀʜᴏᴅᴇs ᴛᴇᴄʜ*"
+      "value": "*© Powered by Skitu*"
     },
 
       "DELETE_LINKS": {
