@@ -51,7 +51,7 @@ no<img src="https://capsule-render.vercel.app/api?type=waving&color=0:87CEEB,100
 
 Start by forking this repository to your own GitHub account. Click the button below to fork:
 
-  <a href="https://github.com/shao3253/SHAO-LD/fork"><img title="SHAO-LD" src="https://img.shields.io/badge/FORK-SHAO%20LD-h?color=purple&style=for-the-badge&logo=github"></a>
+  <a href="https://github.com/shao3252/SHAO-LD/fork"><img title="SHAO-LD" src="https://img.shields.io/badge/FORK-SHAO%20LD-h?color=purple&style=for-the-badge&logo=github"></a>
 
 ### 2. GET SESSION ID SERVER 
 
