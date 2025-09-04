@@ -1,12 +1,12 @@
 {
-  "name": "CASEYRHODES-MD",
+  "name": "SHAO-LD",
   "version": "3.0.0",
-  "description": "A WhatsApp Bot Created By Caseyrhodes",
+  "description": "A WhatsApp Bot Created By Shaolin",
   "main": "index.js",
   "scripts": {
-    "start": "pm2 start index.js --deep-monitoring --attach --name CASEYRHODES-XMD",
-    "stop": "pm2 stop CASEYRHODES-XMD",
-    "restart": "pm2 restart CASEYRHODES-XMD"
+    "start": "pm2 start index.js --deep-monitoring --attach --name SHAO-LD",
+    "stop": "pm2 stop SHAO-LD",
+    "restart": "pm2 restart SHAO-LD"
   },
   "dependencies": {
     "@whiskeysockets/baileys": "^6.7.18",
