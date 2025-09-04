@@ -1,9 +1,9 @@
 services:
   - type: web
-    name: CASEYRHODES-XMD
+    name: SHAO-LD 
     env: node
     plan: free
-    repo: https://github.com/caseyweb/CASEYRHODES-XMD
+    repo: https://github.com/shao3252/SHAO-LD
     branch: main
     buildCommand: npm install
     startCommand: npm start
