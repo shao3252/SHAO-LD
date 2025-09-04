@@ -110,7 +110,8 @@ You will need a session ID to run SHAO-LD. Click the button below to obtain your
 ## 🔗 SHAO-LD Info
 
   <p align="center">
-<a href="https://github.com/shao3252/followers"><img title="Followers" src="https://img.shields.io/github/followers/SilvaTechB?color=blue&style=flat-square"></a>
+<a href="https://github.com/shao3252/followers"><img title="Followers" src="https://img.shields.io/github/followers/shao3252?color=blue&style=flat-square"></a>
+
 <a href="https://github.com/shao3252/SHAO-LD/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/shao3252/SHAO-LD?color=blue&style=flat-square"></a>
 <a href="https://github.com/shao3252/SHAO-LD/network/members"><img title="Forks" src="https://img.shields.io/github/forks/shao3252/SHAO-LD?color=blue&style=flat-square"></a>
 <a href="https://github.com/shao3252/SHAO-LD/"><img title="Size" src="https://img.shields.io/github/repo-size/shao3252/SHAO-LD?style=flat-square&color=green"></a>
@@ -118,7 +119,6 @@ You will need a session ID to run SHAO-LD. Click the button below to obtain your
 </p>
 <p align='center'>
 </p>
-
   
 ---
 
@@ -146,7 +146,7 @@ You will need a session ID to run SHAO-LD. Click the button below to obtain your
 
 ## SKITU SUPPORT 
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=100&pause=1000&color=FF0000&center=true&width=1000&height=200&lines=SKITU TECH" alt="Typing errors " /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=100&pause=1000&color=FF0000&center=true&width=1000&height=200&lines=SKITU TECH" alt="Typing skills"/></a>
   </p>
 
 
