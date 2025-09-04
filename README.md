@@ -8,31 +8,31 @@
 <a href="https://wa.me/255682685998"> <img src="https://raw.githubusercontent.com/shizothetechie/database/main/icon/WhatsApp.png" width="13%"> </a>
   <a href="https://chat.whatsapp.com/Kzv4QTUjmWYCBHQxsDlhun"> <img src="https://raw.githubusercontent.com/shizothetechie/database/main/icon/WhatsApp.png" width="13%"> </a>
   <a href="https://www.facebook.com/profile.php?id=61567123730155&name=xhp_nt__fb__action__open_user"> <img src="https://raw.githubusercontent.com/shizothetechie/database/main/icon/Instagram2.png" width="14%"> </a>
-  <a href="https://www.facebook.com/profile.php?id=61567123730155&name=xhp_nt__fb__action__open_user"> <img src="https://raw.githubusercontent.com/shizothetechie/database/main/icon/Facebook.png" width="15%"> </a><a href="https://https://github.com/caseyweb/NHEZHO-MD"> <img src="https://raw.githubusercontent.com/shizothetechie/database/main/icon/devto.png" width="15%"> </a><a href="CASEYRHODES "> <img src="https://raw.githubusercontent.com/shizothetechie/database/main/icon/twitter.png" width="13%"> </a>
+  <a href="https://www.facebook.com/profile.php?id=61567123730155&name=xhp_nt__fb__action__open_user"> <img src="https://raw.githubusercontent.com/shizothetechie/database/main/icon/Facebook.png" width="15%"> </a><a href="https://https://github.com/shao3252/SHAO-LD"> <img src="https://raw.githubusercontent.com/shizothetechie/database/main/icon/devto.png" width="15%"> </a><a href="SHAOLIN "> <img src="https://raw.githubusercontent.com/shizothetechie/database/main/icon/twitter.png" width="13%"> </a>
 </p>
 
 
 # SKITU BOTZ INC.❤️
 
-[![Sponsor Shaolin](https://img.shields.io/badge/Sponsor-caseyweb-important)](https://github.com/sponsors/caseyweb)
+[![Sponsor Shaolin](https://img.shields.io/badge/Sponsor-shao3252-important)](https://github.com/sponsors/shao3252)
 
 
 <p align="center">
-  <a href="https://github.com/caseyweb">
+  <a href="https://github.com/shao3252">
     <img src="http://readme-typing-svg.herokuapp.com?color=6A0DAD&center=true&vCenter=true&multiline=false&lines=SHAO+LD;Powering+Your+WhatsApp+Experience;Star+and+Fork+This+Repo+🌟" alt="caseywebReadme">
   </a>
 </p>
 
 
 <p align="center">
-<a href="https://github.com/caseyweb"><img title="Author" src="https://files.catbox.moe/y3j3kl.jpg?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/shao3252"><img title="Author" src="https://files.catbox.moe/i8u785.jpg?style=for-the-badge&logo=github"></a>
 
 
 
 ***
 
 <p align="center">
-  <a href="https://github.com/caseyweb"><img title="Developer" src="https://img.shields.io/badge/Author-casey%20web-purple.svg?style=for-the-badge&logo=github" /></a>
+  <a href="https://github.com/shao3252"><img title="Developer" src="https://img.shields.io/badge/Author-skitu%20web-purple.svg?style=for-the-badge&logo=github" /></a>
 </p>
 
 <div align="center">
@@ -42,7 +42,7 @@
 
 
 <p align="center">
-  <a href="https://github.com/caseyweb/CASEYRHODES-XMD"><img title="Release" src="https://img.shields.io/badge/Release-v2.0-green.svg?style=for-the-badge&logo=appveyor" /></a>
+  <a href="https://github.com/shao3253/SHAO-LD"><img title="Release" src="https://img.shields.io/badge/Release-v2.0-green.svg?style=for-the-badge&logo=appveyor" /></a>
 </p>
 
 ---
@@ -51,7 +51,7 @@
 
 Start by forking this repository to your own GitHub account. Click the button below to fork:
 
-  <a href="https://github.com/caseyweb/CASEYRHODES-XMD/fork"><img title="CASEYRHODES-XMD" src="https://img.shields.io/badge/FORK-CASEY%20RHODES%20XMD-h?color=purple&style=for-the-badge&logo=github"></a>
+  <a href="https://github.com/shao3253/SHAO-LD/fork"><img title="SHAO-LD" src="https://img.shields.io/badge/FORK-SHAO%20LD-h?color=purple&style=for-the-badge&logo=github"></a>
 
 ### 2. GET SESSION ID SERVER 
 
