@@ -1,4 +1,4 @@
-no<img src="https://capsule-render.vercel.app/api?type=waving&color=0:87CEEB,100:87CEEB&height=180&section=header&text=SHAO%20LD%20WHATSAPP%20BOT&fontSize=38&fontColor=ffffff&fontFamily=Roboto&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:87CEEB,100:87CEEB&height=180&section=header&text=SHAO%20LD%20WHATSAPP%20BOT&fontSize=38&fontColor=ffffff&fontFamily=Roboto&animation=twinkling" width="100%"/>
 
 
 > **`Updated` SHAO-LD with Latest Features**
@@ -83,7 +83,7 @@ You will need a session ID to run SHAO-LD. Click the button below to obtain your
 
 <h4 align="left">3. 𝐑𝐀𝐈𝐋𝐖𝐀𝐘𝐒</h4>
 <p align="left">
-<a href='https://railway.app/new' target="_blank"><img alt='Railway' src='https://img.shields.io/badge/-Railway%20Deploy-red?style=for-the-badge&logo=railway&logoColor=white'/></a>
+<a href='https://railway.com?referralCode=BANIXv' target="_blank"><img alt='Railway' src='https://img.shields.io/badge/-Railway%20Deploy-red?style=for-the-badge&logo=railway&logoColor=white'/></a>
 </p>
 
 <h4 align="left">4. 𝐑𝐄𝐍𝐃𝐄𝐑</h4>
