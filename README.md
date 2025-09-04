@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:87CEEB,100:87CEEB&height=180&section=header&text=SHAO%20LD%20WHATSAPP%20BOT&fontSize=38&fontColor=ffffff&fontFamily=Roboto&animation=twinkling" width="100%"/>
+no<img src="https://capsule-render.vercel.app/api?type=waving&color=0:87CEEB,100:87CEEB&height=180&section=header&text=SHAO%20LD%20WHATSAPP%20BOT&fontSize=38&fontColor=ffffff&fontFamily=Roboto&animation=twinkling" width="100%"/>
 
 
 > **`Updated` SHAO-LD with Latest Features**
@@ -110,11 +110,11 @@ You will need a session ID to run SHAO-LD. Click the button below to obtain your
 ## 🔗 SHAO-LD Info
 
   <p align="center">
-<a href="https://github.com/caseyweb/followers"><img title="Followers" src="https://img.shields.io/github/followers/SilvaTechB?color=blue&style=flat-square"></a>
-<a href="https://github.com/caseyweb/CASEYRHODES-XMD/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/caseyweb/CASEYRHODES-XMD?color=blue&style=flat-square"></a>
-<a href="https://github.com/caseyweb/CASEYRHODES-XMD/network/members"><img title="Forks" src="https://img.shields.io/github/forks/caseyweb/CASEYRHODES-XMD?color=blue&style=flat-square"></a>
-<a href="https://github.com/caseyweb/CASEYRHODES-XMD/"><img title="Size" src="https://img.shields.io/github/repo-size/caseyweb/CASEYRHODES-XMD?style=flat-square&color=green"></a>
-<a href="https://github.com/caseyweb/CASEYRHODES-XMD/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>&nbsp;&nbsp;
+<a href="https://github.com/shao3252/followers"><img title="Followers" src="https://img.shields.io/github/followers/SilvaTechB?color=blue&style=flat-square"></a>
+<a href="https://github.com/shao3252/SHAO-LD/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/shao3252/SHAO-LD?color=blue&style=flat-square"></a>
+<a href="https://github.com/shao3252/SHAO-LD/network/members"><img title="Forks" src="https://img.shields.io/github/forks/shao3252/SHAO-LD?color=blue&style=flat-square"></a>
+<a href="https://github.com/shao3252/SHAO-LD/"><img title="Size" src="https://img.shields.io/github/repo-size/shao3252/SHAO-LD?style=flat-square&color=green"></a>
+<a href="https://github.com/shao3252/SHAO-LD/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>&nbsp;&nbsp;
 </p>
 <p align='center'>
 </p>
@@ -146,7 +146,7 @@ You will need a session ID to run SHAO-LD. Click the button below to obtain your
 
 ## SKITU SUPPORT 
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=100&pause=1000&color=FF0000&center=true&width=1000&height=200&lines=CASEYRHODES TECH" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=100&pause=1000&color=FF0000&center=true&width=1000&height=200&lines=SKITU TECH" alt="Typing errors " /></a>
   </p>
 
 
