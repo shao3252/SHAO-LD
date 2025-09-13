@@ -170,7 +170,7 @@ You will need a session ID to run SHAO-LD. Click the button below to obtain your
   
 <p align="center">
   
-[![JOIN WHATSAPP CHANNEL](https://raw.githubusercontent.com/Neeraj-x0/Neeraj-x0/main/photos/suddidina-join-whatsapp.png)](https://chat.whatsapp.com/Kzv4QTUjmWYCBHQxsDlhun)
+[![JOIN WHATSAPP CHANNEL](https://raw.githubusercontent.com/Neeraj-x0/Neeraj-x0/main/photos/suddidina-join-whatsapp.png)](https://whatsapp.com/channel/0029Vb6iokYI7BeIPmFzxD23)
 
 --------
 
