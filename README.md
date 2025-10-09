@@ -3,7 +3,7 @@
 
 > **`Updated` SHAO-LD with Latest Features**
 
-## CONTACT MABESA TECH
+## CONTACT SKITU TECH
   
 <a href="https://wa.me/255682685998"> <img src="https://raw.githubusercontent.com/shizothetechie/database/main/icon/WhatsApp.png" width="13%"> </a>
   <a href="https://chat.whatsapp.com/Kzv4QTUjmWYCBHQxsDlhun"> <img src="https://raw.githubusercontent.com/shizothetechie/database/main/icon/WhatsApp.png" width="13%"> </a>
